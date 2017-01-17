@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  FinalDLL.cpp
+FinalDLL.def(2): warning LNK4017: "FinalDLL.Dll" statement not supported for the target platform; ignored
+     Creating library E:\final\Debug\FinalDLL.lib and object E:\final\Debug\FinalDLL.exp
+  FinalDLL.vcxproj -> E:\final\Debug\FinalDLL.dll
+  FinalDLL.vcxproj -> E:\final\Debug\FinalDLL.pdb (Full PDB)
